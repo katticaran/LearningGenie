@@ -1,0 +1,33 @@
+#Does it bark?
+#Is it an animal?
+Dog
+Tree
+#Does it have whiskers?
+#Does it meow?
+Cat
+#Is it a bad swimmer?
+#Is it not the king of the jungle?
+Fox
+Lion
+Walrus
+#Does it have a long neck?
+Giraffe
+#Does it have a horn?
+#Is it real?
+Rhino
+Unicorn
+#is it a primate?
+#Is it very hairy?
+#Is it not orange?
+Gorilla
+Orangutan
+Human
+#Does it slither?
+#Is it a reptile?
+Snake
+Worm
+#Is it an amphibian?
+Frog
+#Does it have 8 legs?
+Spider
+Lizard
